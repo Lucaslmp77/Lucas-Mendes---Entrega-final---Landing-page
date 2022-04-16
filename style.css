@@ -87,3 +87,17 @@ body {
 .imghome{
     padding-top: 62px;
 }
+
+.botaobook {
+    width: 200px;
+    height: 52px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-right: 38px;
+    color: #116CFF;
+}
