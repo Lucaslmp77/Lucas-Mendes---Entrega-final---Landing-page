@@ -67,6 +67,8 @@ body {
 }
 
 .texto {
+    width: 403px;
+    height: 64px;
     font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-size: 18px;
@@ -77,11 +79,6 @@ body {
 .conteudo {
     width: 522px;
     margin-right: 12px;
-}
-
-.texto {
-    width: 403px;
-    height: 64px;
 }
 
 .imghome{
