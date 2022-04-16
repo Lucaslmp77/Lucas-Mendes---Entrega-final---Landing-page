@@ -38,3 +38,9 @@ body {
     text-decoration: none;
     color: #FFFFFF;
 }
+
+.conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
