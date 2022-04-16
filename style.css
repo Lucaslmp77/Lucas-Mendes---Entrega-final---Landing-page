@@ -17,3 +17,8 @@ body {
     justify-content: space-around;
     padding: 42px;
 }
+
+.menu {
+    display: flex;
+    gap: 92px;
+}
