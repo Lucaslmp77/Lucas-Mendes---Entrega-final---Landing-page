@@ -5,7 +5,7 @@ body {
     padding: 0;
 }
 
-.homepage {
+#homepage {
     height: 100vh;
     background: #116CFF;
 }
