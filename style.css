@@ -9,3 +9,11 @@ body {
     height: 100vh;
     background: #116CFF;
 }
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 42px;
+}
