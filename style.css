@@ -5,6 +5,8 @@ body {
     padding: 0;
 }
 
+/*Primeira pagina (homepage)*/
+
 #homepage {
     height: 100vh;
     background: #116CFF;
@@ -111,6 +113,8 @@ body {
     color: #FFFFFF;
     background-color: #116CFF;
 }
+
+/*Segunda pagina (pagina2)*/
 
 #pag2 {
     height: 100vh;
