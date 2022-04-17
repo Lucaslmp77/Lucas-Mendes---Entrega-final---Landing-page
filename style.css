@@ -156,3 +156,11 @@ body {
     background: #116CFF;
     color: #FFFFFF;
 }
+
+.titulopag3 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+}
