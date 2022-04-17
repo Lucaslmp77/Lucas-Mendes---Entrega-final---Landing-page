@@ -114,6 +114,10 @@ body {
 
 #pag2 {
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00235C;
 }
 
 .titulopag2 {
