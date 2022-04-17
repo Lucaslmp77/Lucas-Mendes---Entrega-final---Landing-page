@@ -145,3 +145,14 @@ body {
 .escritaspag2 {
     width: 630px;
 }
+
+/*Terceira pagina (pagina3)*/
+
+.pag3 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #116CFF;
+    color: #FFFFFF;
+}
