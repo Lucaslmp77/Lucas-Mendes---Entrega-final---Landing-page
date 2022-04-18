@@ -261,3 +261,12 @@ span {
     line-height: 39px;
     color: #FF463A;
 }
+
+/*Balões*/
+.balao {
+    position: relative;
+    width: 440px;
+    height: 187px;
+    border-radius: 20px;
+    background: #FFE6E5;
+}
