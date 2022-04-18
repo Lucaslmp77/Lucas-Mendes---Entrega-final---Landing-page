@@ -60,7 +60,7 @@ body {
     justify-content: center;
 }
 
-.titulo {
+.titulohomepage {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
     font-size: 50px;
@@ -68,7 +68,7 @@ body {
     color: #FFFFFF;
 }
 
-.texto {
+.textohomepage {
     width: 403px;
     height: 64px;
     font-family: 'Inter', sans-serif;
@@ -78,7 +78,7 @@ body {
     color: #FFFFFF;
 }
 
-.conteudo {
+.conteudohomepage {
     width: 522px;
     margin-right: 12px;
 }
@@ -173,6 +173,7 @@ body {
     line-height: 40px;
     width: 526px;
     height: 120px;
+    color: #FFFFFF;
 }
 
 .escritaspag3 {
@@ -206,7 +207,7 @@ body {
 }
 
 /*Posição absoluta para a implementação dentro do container da esquerda que tem a posição relativa*/
-h1 {
+.titulopag4 {
     position: absolute;
     font-family: 'Inter';
     font-style: normal;
@@ -242,7 +243,7 @@ h1 {
     color: #00235C;
 }
 
-p {
+.textopag4 {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
