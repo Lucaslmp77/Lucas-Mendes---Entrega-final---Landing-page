@@ -275,3 +275,31 @@ span {
 .azul {
     background: #E7F0FF;
 }
+
+/*Seta dos balões*/
+.balao::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 21px;
+    border-top: 8.7px solid transparent;
+    border-bottom: 8.7px solid transparent;
+    color: #FFE6E5;
+}
+
+/*Seta dos balões azuis*/
+.azul::after {
+    color: #E7F0FF;
+}
+
+/*Setas apontadas para a esquerda*/
+.containeresquerda .balao::after {
+    left: -20.66px;
+    border-right: 20.66px solid;
+}
+
+/*Setas apontadas para a direita*/
+.containerdireita .balao::after {
+    left: 439.66px;
+    border-left: 20.66px solid;
+}
