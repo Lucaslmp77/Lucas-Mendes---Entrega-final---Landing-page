@@ -233,3 +233,11 @@ h1 {
     margin-left: 24px;
     margin-top: 8px;
 }
+
+.nome {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    color: #00235C;
+}
