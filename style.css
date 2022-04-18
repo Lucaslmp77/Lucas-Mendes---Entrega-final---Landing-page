@@ -251,3 +251,13 @@ p {
     width: 392px;
     color: #00235C;
 }
+
+/*Span para as aspas e a letra A do segundo balao*/
+span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FF463A;
+}
