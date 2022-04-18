@@ -196,3 +196,11 @@ body {
 .containeresquerda {
     position: relative;
 }
+
+/*Classe utilizada para o alinhamento das imagens e o espaçamento entre os balões*/
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-right: 74.34px;
+    margin-top: 22px;
+}
