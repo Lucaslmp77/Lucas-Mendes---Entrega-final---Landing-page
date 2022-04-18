@@ -204,3 +204,17 @@ body {
     margin-right: 74.34px;
     margin-top: 22px;
 }
+
+/*Posição absoluta para a implementação dentro do container da esquerda que tem a posição relativa*/
+h1 {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #116CFF;
+
+    margin-top: -60px;
+    margin-left: 35.93px;
+}
