@@ -191,3 +191,8 @@ body {
     flex-direction: row;
     background-color: #FFFFFF;
 }
+
+/*Containeir da esquerda com posição relativa para a implementação do titulo que irá sobrepor o mesmo espaço*/
+.containeresquerda {
+    position: relative;
+}
