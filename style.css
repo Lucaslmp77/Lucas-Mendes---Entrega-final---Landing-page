@@ -241,3 +241,13 @@ h1 {
     line-height: 25px;
     color: #00235C;
 }
+
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25.41px;
+    width: 392px;
+    color: #00235C;
+}
