@@ -179,3 +179,15 @@ body {
     width: 570px;
     margin-right: 38px;
 }
+
+/*Quarta pagina (pagina4)*/
+
+/*Container principal utilizado para o alinhamento central dos elementos*/
+#pag4{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #FFFFFF;
+}
