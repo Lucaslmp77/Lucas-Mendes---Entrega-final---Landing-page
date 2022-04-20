@@ -357,3 +357,11 @@ fieldset {
     line-height: 25px;
     color: #00235C;
 }
+
+.campo input {
+    width: 394px;
+    height: 52px;
+    border: 1px solid #BCD6FF;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
