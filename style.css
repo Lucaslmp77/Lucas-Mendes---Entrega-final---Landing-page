@@ -306,3 +306,12 @@ span {
 }
 
 /*Quinta pagina (pagina5)*/
+
+/*Sexta pagina (pagina6)*/
+
+#pag6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
