@@ -365,3 +365,23 @@ fieldset {
     box-sizing: border-box;
     border-radius: 10px;
 }
+
+fieldset .campo {
+    margin-top: 35px;
+}
+
+.email {
+    margin-right: 101px;
+}
+
+.parents {
+    margin-right: 35px;
+}
+
+.kidname {
+    margin-right: 60px;
+}
+
+.class {
+    margin-right: 100px;
+}
