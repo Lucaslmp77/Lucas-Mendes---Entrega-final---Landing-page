@@ -334,3 +334,17 @@ fieldset {
     height: 59px;
     margin-top: 88px;
 }
+
+.titulopag6{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    width: 411px;
+    color: #00235C;
+    margin-top: 60px;
+    margin-right: 38px;
+    margin-left: 28px;
+    text-align: center;
+}
