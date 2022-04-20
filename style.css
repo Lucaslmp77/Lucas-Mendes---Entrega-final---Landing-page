@@ -325,3 +325,12 @@ fieldset {
     display: flex;
     margin-top: 4px;
 }
+
+.cima {
+    height: 94px;
+}
+
+.baixo {
+    height: 59px;
+    margin-top: 88px;
+}
