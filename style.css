@@ -416,3 +416,9 @@ fieldset .campo {
     margin-top: -317px;
     margin-left: 1185px;
 }
+
+.headset {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+}
