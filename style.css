@@ -209,7 +209,7 @@ body {
 /*Posição absoluta para a implementação dentro do container da esquerda que tem a posição relativa*/
 .titulopag4 {
     position: absolute;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -236,7 +236,7 @@ body {
 }
 
 .nome {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-weight: 700;
     font-size: 21px;
     line-height: 25px;
@@ -244,7 +244,7 @@ body {
 }
 
 .textopag4 {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 21px;
@@ -255,7 +255,7 @@ body {
 
 /*Span para as aspas e a letra A do segundo balao*/
 span {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
@@ -336,7 +336,7 @@ fieldset {
 }
 
 .titulopag6{
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -347,4 +347,13 @@ fieldset {
     margin-right: 38px;
     margin-left: 28px;
     text-align: center;
+}
+
+.campo label{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    color: #00235C;
 }
