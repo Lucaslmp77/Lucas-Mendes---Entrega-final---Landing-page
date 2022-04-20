@@ -403,3 +403,16 @@ fieldset .campo {
     margin-top: 48px;
     margin-left: 346px;
 }
+
+.circulo {
+    display: flex;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #FF463A;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    margin-top: -317px;
+    margin-left: 1185px;
+}
