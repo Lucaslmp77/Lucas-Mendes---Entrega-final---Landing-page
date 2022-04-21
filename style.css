@@ -328,6 +328,13 @@ span {
     margin-right: 994px;
 }
 
+table {
+    margin-top: 52px;
+    width: 1166px;
+    height: 374px;
+    border-collapse: collapse;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
