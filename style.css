@@ -462,3 +462,20 @@ fieldset .campo {
     margin-top: 30px;
     color: #FFFFFF;
 }
+
+.rodapefundo {
+    position: absolute;
+}
+
+.rodapelogo {
+    margin-top: 44px;
+    border: 1px solid #FFFFFF;
+}
+
+.rodapeicons {
+    margin-top: 30px;
+}
+
+.imgiconrod {
+    margin-right: 36px;
+}
