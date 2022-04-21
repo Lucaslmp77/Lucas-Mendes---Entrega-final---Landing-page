@@ -452,3 +452,13 @@ fieldset .campo {
     line-height: 18px;
     color: #116CFF;
 }
+
+.rodapetext {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: 30px;
+    color: #FFFFFF;
+}
