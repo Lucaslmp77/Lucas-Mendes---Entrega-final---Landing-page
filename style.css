@@ -492,3 +492,8 @@ fieldset .campo {
     width: 377px;
     margin-right: 164px;
 }
+
+.rodapecont2 {
+    display: flex;
+    width: 625px;
+}
