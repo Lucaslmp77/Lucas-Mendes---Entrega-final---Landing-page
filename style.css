@@ -390,6 +390,24 @@ table {
     color: #00235C;
 }
 
+.free {
+    color: #FF463A;
+}
+
+.botaonew {
+    width: 47px;
+    height: 25px;
+    background: #FFE6E5;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FF463A;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
