@@ -372,6 +372,15 @@ table {
     border-radius: 10px;
 }
 
+.escritapag5 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #116CFF;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
