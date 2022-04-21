@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
+/*Reset dos padroes apricados pelo navegador*/
 * {
     margin: 0;
     padding: 0;
@@ -7,13 +8,15 @@
     text-decoration: none;
 }
 
-/*Primeira pagina (homepage)*/
+/*----------Primeira pagina (homepage)-----------*/
 
+/*Section*/
 #homepage {
     height: 100vh;
     background: #116CFF;
 }
 
+/*Cabeçalho da homepage com a tag nav e o botao de login*/
 .cabecalho {
     display: flex;
     flex-direction: row;
@@ -22,11 +25,13 @@
     padding: 42px;
 }
 
+/*Distanciamento das escritas da tag nav*/
 .menu {
     display: flex;
     gap: 92px;
 }
 
+/*Estilo da escrita testimony no menu*/
 .menutestimony {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
@@ -34,7 +39,7 @@
     text-decoration: none;
     color: #FFFFFF;
 }
-
+/*Estilo das outras escritas do menu*/
 .menuitem {
     font-family: 'Inter', sans-serif;
     font-weight: 500;
@@ -43,6 +48,7 @@
     color: #FFFFFF;
 }
 
+/*Estilo do botao login*/
 .botaologin {
     font-family: 'Inter', sans-serif;
     font-weight: 700;
@@ -56,12 +62,14 @@
     border-radius: 10px;
 }
 
+/*Container que abrange a parte da esquerda*/
 .container1 {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+/*Estilo do titulo da homepag*/
 .titulohomepage {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
@@ -70,6 +78,7 @@
     color: #FFFFFF;
 }
 
+/*Estilo do texto da homepage*/
 .textohomepage {
     width: 403px;
     height: 64px;
@@ -80,15 +89,18 @@
     color: #FFFFFF;
 }
 
+/*Largura e margem do conteudo do container1*/
 .conteudohomepage {
     width: 522px;
     margin-right: 12px;
 }
 
+/*Estilo da imagem da homepage*/
 .imghome{
     padding-top: 62px;
 }
 
+/*Estilo do botao book a class*/
 .botaobook {
     width: 200px;
     height: 52px;
@@ -103,6 +115,7 @@
     color: #116CFF;
 }
 
+/*Estilo do botao learn more*/
 .botaolearn {
     width: 200px;
     height: 52px;
@@ -116,8 +129,9 @@
     background-color: #116CFF;
 }
 
-/*Segunda pagina (pagina2)*/
+/*--------Segunda pagina (pagina2)---------*/
 
+/*Section da segunda tela*/
 #pag2 {
     height: 100vh;
     display: flex;
@@ -126,6 +140,7 @@
     color: #00235C;
 }
 
+/*Estilo do titulo*/
 .titulopag2 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -134,6 +149,7 @@
     line-height: 60px;
 }
 
+/*Estilo do texto*/
 .textopag2 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -144,12 +160,14 @@
     height: 160px;
 }
 
+/*Largura do article*/
 .escritaspag2 {
     width: 630px;
 }
 
-/*Terceira pagina (pagina3)*/
+/*-------Terceira pagina (pagina3)--------*/
 
+/*Estilo da section da terceira tela*/
 .pag3 {
     height: 100vh;
     display: flex;
@@ -159,6 +177,7 @@
     color: #FFFFFF;
 }
 
+/*Estilo do titulo*/
 .titulopag3 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -167,6 +186,7 @@
     line-height: 60px;
 }
 
+/*Estilo do texto*/
 .textopag3 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -178,14 +198,15 @@
     color: #FFFFFF;
 }
 
+/*Largura e margem do article*/
 .escritaspag3 {
     width: 570px;
     margin-right: 38px;
 }
 
-/*Quarta pagina (pagina4)*/
+/*-------Quarta pagina (pagina4)--------*/
 
-/*Container principal utilizado para o alinhamento central dos elementos*/
+/*Estilo da section da quarta tela*/
 #pag4{
     height: 100vh;
     display: flex;
@@ -217,7 +238,6 @@
     font-size: 36px;
     line-height: 50px;
     color: #116CFF;
-
     margin-top: -60px;
     margin-left: 35.93px;
 }
@@ -237,6 +257,7 @@
     margin-top: 8px;
 }
 
+/*Estilo das escritas dos nomes*/
 .nome {
     font-family: 'Inter', sans-serif;
     font-weight: 700;
@@ -245,6 +266,7 @@
     color: #00235C;
 }
 
+/*Estilo das escritas dos textos dentro dos baloes*/
 .textopag4 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -265,7 +287,7 @@ span {
     color: #FF463A;
 }
 
-/*Balões*/
+/*Estilo dos Balões*/
 .balao {
     position: relative;
     width: 440px;
@@ -307,8 +329,9 @@ span {
     border-left: 20.66px solid;
 }
 
-/*Quinta pagina (pagina5)*/
+/*--------Quinta pagina (pagina5)---------*/
 
+/*Estilo da section da quinta tela*/
 #pag5 {
     height: 100vh;
     display: flex;
@@ -318,6 +341,7 @@ span {
     background-color: blue;
 }
 
+/*Estilo do titulo*/
 .titulopag5 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -328,6 +352,7 @@ span {
     margin-right: 994px;
 }
 
+/*Estilo da tabela*/
 table {
     margin-top: 52px;
     width: 1166px;
@@ -335,6 +360,7 @@ table {
     border-collapse: collapse;
 }
 
+/*Estilo da escrita no cabeçalho da tabela*/
 .escritadotopopag5 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -345,10 +371,12 @@ table {
     margin-left: 24px;
 }
 
+/*Estilo das estrelas no cabeçalho da tabela*/
 .estrelasdotoppag5 {
     margin-left: 22px;
 }
 
+/*Estilo das escritas no cabeçalho da tabela*/
 .textpag5 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -358,6 +386,7 @@ table {
     color: #00235C;
 }
 
+/*Estilo do botao detail class no cabeçalho da tabela*/
 .botaodetailpag5 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -372,6 +401,7 @@ table {
     border-radius: 10px;
 }
 
+/*Estilo das escritas no corpo da tabela*/
 .escritapag5 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -381,6 +411,7 @@ table {
     color: #116CFF;
 }
 
+/*Estilo dos valores no corpo da tabela*/
 .valorpag5 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -390,10 +421,12 @@ table {
     color: #00235C;
 }
 
+/*Cor do valor FREE*/
 .free {
     color: #FF463A;
 }
 
+/*Estilo do botao new*/
 .botaonew {
     width: 47px;
     height: 25px;
@@ -408,25 +441,30 @@ table {
     color: #FF463A;
 }
 
+/*Cor e altura do cabeçalho da tabela*/
 th {
     background: rgba(255, 255, 255, 0.8);
     height: 115px;
 }
 
+/*Cor do corpo da tabela*/
 tbody {
     background-color: white;
 }
 
+/*Borda no cabeçalho*/
 .pripag5 {
     border-radius: 10px 0px 0px 0px;
 }
 
+/*Borda no cabeçalho*/
 .quapag5 {
     border-radius: 0px 10px 0px 0px;
 }
 
-/*Sexta pagina (pagina6)*/
+/*--------Sexta pagina (pagina6)---------*/
 
+/*Estilo da section da sexta tela*/
 #pag6 {
     height: 100vh;
     display: flex;
@@ -435,24 +473,29 @@ tbody {
     flex-direction: column;
 }
 
+/*Remoção da borda do fieldset*/
 fieldset {
     border: 0;
 }
 
+/*Container para o titulo e imagens*/
 .containerpag6 {
     display: flex;
     margin-top: 4px;
 }
 
+/*Medida da estrela de cima*/
 .cima {
     height: 94px;
 }
 
+/*Medida da estrela de baixo e distancia do topo*/
 .baixo {
     height: 59px;
     margin-top: 88px;
 }
 
+/*Estilo do titulo*/
 .titulopag6{
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -467,6 +510,7 @@ fieldset {
     text-align: center;
 }
 
+/*Estilo das escritas das tags label*/
 .campo label{
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -476,6 +520,7 @@ fieldset {
     color: #00235C;
 }
 
+/*Estilo dos campos a serem preenchidos*/
 .campo input {
     width: 394px;
     height: 52px;
@@ -484,6 +529,7 @@ fieldset {
     border-radius: 10px;
 }
 
+/*Distancia entre o conteudo do fieldset*/
 fieldset .campo {
     margin-top: 35px;
 }
@@ -504,6 +550,7 @@ fieldset .campo {
     margin-right: 100px;
 }
 
+/*Estilo do botao register*/
 .botpag6 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -522,6 +569,7 @@ fieldset .campo {
     margin-left: 346px;
 }
 
+/*Circulo entre a imagem do headset*/
 .circulo {
     display: flex;
     position: absolute;
@@ -534,12 +582,14 @@ fieldset .campo {
     margin-left: 1185px;
 }
 
+/*Estilo da imagem do icone de headset*/
 .headset {
     position: absolute;
     width: 24px;
     height: 24px;
 }
 
+/*Estilo do botao que fica entre o circulo do icone de headset*/
 .bothead {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -547,7 +597,6 @@ fieldset .campo {
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
-
     position: absolute;
     width: 139px;
     height: 30px;
@@ -558,8 +607,9 @@ fieldset .campo {
     margin-top: 71px;
 }
 
-/*Footer*/
+/*---------Footer---------*/
 
+/*Estilo do footer*/
 .rodapetopo {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -569,6 +619,7 @@ fieldset .campo {
     color: #116CFF;
 }
 
+/*Estilo das palavra do rodapé*/
 .rodapetext {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -579,23 +630,28 @@ fieldset .campo {
     color: #FFFFFF;
 }
 
+/*Imagem de fundo na parte esquerda*/
 .rodapefundo {
     position: absolute;
 }
 
+/*Logo do rodapé*/
 .rodapelogo {
     margin-top: 44px;
     border: 1px solid #FFFFFF;
 }
 
+/*Distancia do topo dos icones*/
 .rodapeicons {
     margin-top: 30px;
 }
 
+/*Distancia entre os icones*/
 .imgiconrod {
     margin-right: 36px;
 }
 
+/*Estilo da tag footer*/
 .fot {
     display: flex;
     align-items: center;
@@ -603,17 +659,20 @@ fieldset .campo {
     height: 363px;
 }
 
+/*Estilo do container da esquerda*/
 .rodapecont {
     margin-left: 100px;
     width: 377px;
     margin-right: 164px;
 }
 
+/*Estilo do container da direita*/
 .rodapecont2 {
     display: flex;
     width: 625px;
 }
 
+/*Distancia das colunas do container da direita*/
 .company {
     margin-right: 52px;
     
