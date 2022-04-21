@@ -345,6 +345,19 @@ table {
     margin-left: 24px;
 }
 
+.estrelasdotoppag5 {
+    margin-left: 22px;
+}
+
+.textpag5 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #00235C;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
