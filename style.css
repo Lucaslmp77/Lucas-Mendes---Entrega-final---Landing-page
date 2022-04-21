@@ -479,3 +479,10 @@ fieldset .campo {
 .imgiconrod {
     margin-right: 36px;
 }
+
+.fot {
+    display: flex;
+    align-items: center;
+    background: #00235C;
+    height: 363px;
+}
