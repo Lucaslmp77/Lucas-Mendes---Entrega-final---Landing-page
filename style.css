@@ -408,6 +408,23 @@ table {
     color: #FF463A;
 }
 
+th {
+    background: rgba(255, 255, 255, 0.8);
+    height: 115px;
+}
+
+tbody {
+    background-color: white;
+}
+
+.pripag5 {
+    border-radius: 10px 0px 0px 0px;
+}
+
+.quapag5 {
+    border-radius: 0px 10px 0px 0px;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
