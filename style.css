@@ -497,3 +497,22 @@ fieldset .campo {
     display: flex;
     width: 625px;
 }
+
+.company {
+    margin-right: 52px;
+    
+}
+
+.ourclass {
+    margin-right: 52px;
+    
+}
+
+.information {
+    margin-right: 52px;
+    
+}
+
+.rodapetext {
+    margin-top: 30px;
+}
