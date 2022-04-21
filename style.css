@@ -309,6 +309,15 @@ span {
 
 /*Quinta pagina (pagina5)*/
 
+#pag5 {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: blue;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
