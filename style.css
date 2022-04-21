@@ -318,6 +318,16 @@ span {
     background-color: blue;
 }
 
+.titulopag5 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #FFFFFF;
+    margin-right: 994px;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
