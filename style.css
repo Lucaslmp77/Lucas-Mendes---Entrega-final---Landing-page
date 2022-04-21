@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
-body {
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
 }
 
 /*Primeira pagina (homepage)*/
@@ -310,12 +312,12 @@ span {
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-
 
 fieldset {
     border: 0;
@@ -413,7 +415,6 @@ fieldset .campo {
     border-radius: 50%;
     align-items: center;
     justify-content: center;
-    margin-top: -317px;
     margin-left: 1185px;
 }
 
