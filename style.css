@@ -443,3 +443,12 @@ fieldset .campo {
 }
 
 /*Footer*/
+
+.rodapetopo {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #116CFF;
+}
