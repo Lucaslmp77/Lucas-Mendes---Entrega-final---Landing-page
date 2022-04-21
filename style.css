@@ -381,6 +381,15 @@ table {
     color: #116CFF;
 }
 
+.valorpag5 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #00235C;
+}
+
 /*Sexta pagina (pagina6)*/
 
 #pag6 {
