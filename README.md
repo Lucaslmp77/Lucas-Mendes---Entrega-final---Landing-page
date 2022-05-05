@@ -8,10 +8,6 @@ Atividade prática avaliativa de uma landing page que foi desenvolvida utilizand
 
 Demonstrar o conhecimento do conteúdo aprendido durante o 2° projeto mensal.
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Desenvolvimento da landing page em HTML e CSS.
-
 ## Download
 
 Computer Version:
